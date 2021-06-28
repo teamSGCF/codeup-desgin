@@ -7,3 +7,72 @@
     }
 
 /*}*/
+
+.logo {
+    margin-top: 50px;
+    height: 100px;
+    background-color: red;
+    display: flex;
+}
+
+.logo img {
+    height: 150px;
+    justify-items: center;
+    float: left;
+}
+
+.visual {
+    font-size: 54px;
+    text-align: center;
+}
+
+.visual1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+.circle1 {
+    width: 150px;
+    height: 150px;
+    line-height: 150px;
+    border-radius: 50%;
+    font-size: 15px;
+    color: #fff;
+    text-align: center;
+    background: #E6563B;
+}
+
+.circle2 {
+    width: 150px;
+    height: 150px;
+    line-height: 150px;
+    border-radius: 50%;
+    font-size: 15px;
+    color: #fff;
+    text-align: center;
+    background: #EB9D3A;
+}
+
+.circle3 {
+    width: 150px;
+    height: 150px;
+    line-height: 150px;
+    border-radius: 50%;
+    font-size: 15px;
+    color: #fff;
+    text-align: center;
+    background: #7CB06C;
+}
+
+.circle4 {
+    width: 150px;
+    height: 150px;
+    line-height: 150px;
+    border-radius: 50%;
+    font-size: 15px;
+    color: #fff;
+    text-align: center;
+    background: #00ABA9;
+}
+
+
