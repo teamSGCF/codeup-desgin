@@ -102,9 +102,11 @@
 }
 
 .apple-ipad img {
-    height: 350px;
     justify-items: center;
+    max-width: 100%;
+    height:auto;
 }
+
 .bottom-buttons {
     display: flex;
     justify-content: space-evenly;
@@ -160,4 +162,12 @@
 }
 .buttons {
     display: flex;
+}
+
+.new-font {
+    font-family: 'Anton', sans-serif;
+}
+
+body {
+    font-family: 'Abel', sans-serif;
 }
