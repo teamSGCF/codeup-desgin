@@ -3,11 +3,6 @@
         background-color: #E6E6E6;
     }
 
-    h1 {
-
-    }
-
-
     .logo {
         margin-top: 50px;
         height: 100px;
@@ -110,9 +105,6 @@
 
     }
 
-    .holder div {
-    }
-
     .apple-ipad {
         display: flex;
         justify-content: center;
@@ -201,3 +193,37 @@
         font-family: 'Abel', sans-serif;
     }
 }
+
+@media only screen and (min-width: 576px) and (max-width: 768px) {
+    body {
+        background-color: #E6E6E6;
+    }
+
+    .logo {
+        margin-top: 50px;
+        height: 100px;
+        background-color: #F0F0F0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .logo-img {
+        height: 120px;
+    }
+    .xs-hide {
+        display: none;
+    }
+
+}
+@media only screen and (min-width: 769px) and (max-width: 991px) {
+
+
+
+}
+
+@media only screen and (min-width: 992px) {
+
+}
+
+
