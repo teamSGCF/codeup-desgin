@@ -127,6 +127,7 @@
         margin-right: 50px;
         padding: 0;
     }
+
     .bottom-buttons {
         display: flex;
         justify-content: space-evenly;
@@ -192,6 +193,7 @@
     body {
         font-family: 'Abel', sans-serif;
     }
+
     .s-hide {
         display: none;
     }
@@ -223,12 +225,15 @@
     h1 {
         font-size: 28px;
     }
+
     .visual {
         font-size: 38px;
     }
+
     .visual1 {
         font-size: 28px;
     }
+
     .circle1 {
         width: 85px;
         height: 85px;
@@ -285,6 +290,7 @@
         justify-content: center;
         align-items: center;
     }
+
     .holder {
         display: flex;
         justify-content: center;
@@ -305,6 +311,7 @@
     .sm-p {
         width: 80%;
     }
+
     .bottom-buttons {
         display: flex;
         align-content: center;
@@ -314,6 +321,7 @@
         display: flex;
         justify-items: center;
     }
+
     .small-circle1 {
         width: 18px;
         height: 18px;
@@ -410,6 +418,7 @@
     .visual1 {
         font-size: 28px;
     }
+
     .circle1 {
         width: 85px;
         height: 85px;
@@ -473,9 +482,11 @@
         display: flex;
         justify-content: center;
     }
+
     .sm-p {
         width: 80%;
     }
+
     .bottom-buttons {
         display: flex;
         align-content: center;
@@ -485,6 +496,7 @@
         display: flex;
         justify-items: center;
     }
+
     .small-circle1 {
         width: 18px;
         height: 18px;
@@ -532,6 +544,7 @@
         text-align: center;
         background: #00ABA9;
     }
+
     h4 {
         font-size: 14px;
     }
@@ -548,6 +561,7 @@
     .small-font {
         font-size: 10px;
     }
+
     #last-tweet {
         font-size: 12px;
     }
@@ -602,6 +616,7 @@
     .visual1 {
         font-size: 28px;
     }
+
     .circle1 {
         width: 85px;
         height: 85px;
@@ -665,9 +680,11 @@
         display: flex;
         justify-content: center;
     }
+
     .sm-p {
         width: 80%;
     }
+
     .bottom-buttons {
         display: flex;
         align-content: center;
@@ -677,6 +694,7 @@
         display: flex;
         justify-items: center;
     }
+
     .small-circle1 {
         width: 18px;
         height: 18px;
@@ -724,9 +742,11 @@
         text-align: center;
         background: #00ABA9;
     }
+
     h4 {
         font-size: 14px;
     }
+
     .thumbnail {
         object-fit: cover;
         width: 40px;
@@ -740,6 +760,7 @@
     .small-font {
         font-size: 10px;
     }
+
     #last-tweet {
         font-size: 12px;
     }
@@ -747,10 +768,12 @@
     .l-hide {
         display: none;
     }
+
     .big-boy {
         margin-left: 15%;
         margin-right: 15%;
     }
+
     .big-boy-left {
         margin-left: 15%;
 
@@ -759,7 +782,6 @@
     .big-boy-right {
         margin-right: 15%;
     }
-
 }
 
 
